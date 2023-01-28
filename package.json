@@ -3,21 +3,31 @@
   "version": "1.0.0",
   "private": true,
   "description": "shirley-li",
-  "author": "sxli",
+  "author": "shirley",
   "keywords": [
     "gatsby"
   ],
   "scripts": {
+    "deploy": "gatsby build && gh-pages -d public -b main",
     "develop": "gatsby develop",
     "start": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
-    "clean": "gatsby clean",
-    "deploy": "gatsby build && gh-pages -d public -b main"
+    "clean": "gatsby clean"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@fontsource/lato": "^4.5.10",
+    "@fontsource/playfair-display": "^4.5.13",
+    "@mui/icons-material": "^5.11.0",
+    "@mui/material": "^5.11.6",
     "gatsby": "^5.5.0",
+    "gatsby-plugin-material-ui": "^4.0.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }

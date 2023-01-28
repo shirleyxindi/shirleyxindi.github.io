@@ -5,5 +5,5 @@ module.exports = {
   siteMetadata: {
     siteUrl: `https://www.shirleyli.nl`,
   },
-  plugins: [],
+  plugins: [`gatsby-plugin-material-ui`],
 }

@@ -1,0 +1,27 @@
+.container {
+    width: 100%;
+    display: flex;
+    background-color: #ff6666;
+    padding: 0 48px;
+    position: sticky;
+    top: 0;
+}
+
+.nav {
+    display: flex;
+    flex: 1;
+
+}
+
+.nav-link {
+    text-decoration: none;
+    color: #ffffff;
+    padding: 16px 24px;
+    font-size: 16px;
+    transition: 0.3s;
+}
+
+.nav-link:hover {
+    background-color: #ff9797;
+    color: #ffffff;
+}
