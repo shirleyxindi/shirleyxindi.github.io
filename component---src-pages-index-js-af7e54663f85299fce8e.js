@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkshirley_li=self.webpackChunkshirley_li||[]).push([[678],{6558:function(e,t,l){l.r(t),l.d(t,{Head:function(){return r}});var n=l(7294),a=l(4953);const r=()=>n.createElement("title",null,"Home Page");t.default=()=>n.createElement(a.Z,{pageTitle:"Home Page"},n.createElement("p",null,"Lezen=adten"))}}]);
+//# sourceMappingURL=component---src-pages-index-js-af7e54663f85299fce8e.js.map

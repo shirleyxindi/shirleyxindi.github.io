@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkshirley_li=self.webpackChunkshirley_li||[]).push([[682],{5465:function(e,t,l){l.r(t),l.d(t,{Head:function(){return i}});var n=l(7294),u=l(4953);const i=()=>n.createElement("title",null,"About Me");t.default=()=>n.createElement(u.Z,{pageTitle:"About Me"},n.createElement("p",null,"Dit wordt een leuke website"))}}]);
+//# sourceMappingURL=component---src-pages-about-js-bcd2c8a1eaa8e0a54395.js.map
